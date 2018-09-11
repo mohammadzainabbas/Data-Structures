@@ -1,0 +1,11 @@
+﻿Build started 17-Jan-16 1:20:16 PM.
+     1>Project "C:\DataStructure\DSLab9\DSLab9\DSLab9.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\datastructure\dslab9\dslab9\source.cpp(31): warning C4018: '<' : signed/unsigned mismatch
+     1>Done Building Project "C:\DataStructure\DSLab9\DSLab9\DSLab9.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.67

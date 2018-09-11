@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: DSLab10, Configuration: Debug Win32 ------
+1>  Skipping... (no relevant changes detected)
+1>  Source.cpp
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

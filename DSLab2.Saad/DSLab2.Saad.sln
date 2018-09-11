@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DSLab2.Saad", "DSLab2.Saad\DSLab2.Saad.vcxproj", "{A23544C1-A232-49BD-99AF-F88F7FC187AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23544C1-A232-49BD-99AF-F88F7FC187AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A23544C1-A232-49BD-99AF-F88F7FC187AA}.Debug|Win32.Build.0 = Debug|Win32
+		{A23544C1-A232-49BD-99AF-F88F7FC187AA}.Release|Win32.ActiveCfg = Release|Win32
+		{A23544C1-A232-49BD-99AF-F88F7FC187AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
