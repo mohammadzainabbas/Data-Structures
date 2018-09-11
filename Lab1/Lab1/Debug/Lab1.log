@@ -1,0 +1,17 @@
+﻿Build started 26-Oct-15 6:56:06 AM.
+     1>Project "C:\DataStructure\Lab1\Lab1\Lab1.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\datastructure\lab1\lab1\source.cpp(23): error C3867: 'Rectangle::Area': function call missing argument list; use '&Rectangle::Area' to create a pointer to member
+     1>c:\datastructure\lab1\lab1\source.cpp(23): error C2296: '>' : illegal, left operand has type 'float (__thiscall Rectangle::* )(Rectangle)'
+     1>c:\datastructure\lab1\lab1\source.cpp(23): error C2297: '>' : illegal, right operand has type 'float (__thiscall Rectangle::* )(Rectangle)'
+     1>c:\datastructure\lab1\lab1\source.cpp(43): error C3861: 'Area': identifier not found
+     1>c:\datastructure\lab1\lab1\source.cpp(43): error C3861: 'Perimeter': identifier not found
+     1>c:\datastructure\lab1\lab1\source.cpp(46): error C3861: 'Area': identifier not found
+     1>c:\datastructure\lab1\lab1\source.cpp(46): error C3861: 'Perimeter': identifier not found
+     1>Done Building Project "C:\DataStructure\Lab1\Lab1\Lab1.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.37

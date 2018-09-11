@@ -1,0 +1,5 @@
+C:\DataStructure\QuizTesting\QuizTesting\bin\Debug\QuizTesting.exe.config
+C:\DataStructure\QuizTesting\QuizTesting\obj\Debug\QuizTesting.Form1.resources
+C:\DataStructure\QuizTesting\QuizTesting\obj\Debug\QuizTesting.Properties.Resources.resources
+C:\DataStructure\QuizTesting\QuizTesting\obj\Debug\QuizTesting.csproj.GenerateResource.Cache
+C:\DataStructure\QuizTesting\QuizTesting\obj\Debug\QuizTesting.csprojResolveAssemblyReference.cache

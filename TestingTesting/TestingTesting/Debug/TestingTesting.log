@@ -1,0 +1,12 @@
+﻿Build started 18-Mar-16 1:41:12 PM.
+     1>Project "C:\DataStructure\TestingTesting\TestingTesting\TestingTesting.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\DataStructure\TestingTesting\Debug\TestingTesting.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\DataStructure\TestingTesting\Debug\TestingTesting.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\DataStructure\TestingTesting\Debug\TestingTesting.lib" /MACHINE:X86 Debug\Source.obj
+         Debug\Source1.obj
+     1>Source1.obj : error LNK2005: _main already defined in Source.obj
+     1>C:\DataStructure\TestingTesting\Debug\TestingTesting.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "C:\DataStructure\TestingTesting\TestingTesting\TestingTesting.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.27
